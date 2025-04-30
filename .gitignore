@@ -1,0 +1,9 @@
+build/
+node_modules/
+.cursor/
+.cursorrules/
+.cursorignore/
+.cursorignorerules/
+.env
+package-lock.json
+*.code-workspace
